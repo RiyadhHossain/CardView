@@ -9,6 +9,7 @@
     <color name="white">#FFFFFFFF</color>
     <color name="whiteR">#27DFA7A7</color>
 
-
+    <color name="whiteo">#27DFA7A7</color> 
+    <color name="whitep">#27DFA7A7</color>
 
 </resources>
